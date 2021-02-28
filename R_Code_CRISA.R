@@ -1,7 +1,5 @@
 ## CRISA SOAP SEGMENTATION ANALYSIS ##
 
-###Robin
-
 library(tidyverse)
 library(dplyr)
 library(readxl)
