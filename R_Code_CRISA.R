@@ -1,4 +1,6 @@
 ## CRISA SOAP SEGMENTATION ANALYSIS ##
+print('hello world')
+
 
 library(tidyverse)
 library(dplyr)
